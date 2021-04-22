@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram Clone</title>
+    <link rel="stylesheet" href="/styles/style.css">
+  <body class="fondo">
+    <section class="orden">
+      <span class="phones">
+        <img src="images/phones.png" >
+      </span>
+      <span class="logo">    
+        <img src="images/brand.png">
+      </span>
+      <span class="casa">
+        <img src="images/home.png">
+        <a class="boton" href="#" >Log in</a>
+      </span>
+      <span class="cuadro">
+        <img src="/images/frame.png">
+      </span>
+    </section>
+  </body>
+</html>
